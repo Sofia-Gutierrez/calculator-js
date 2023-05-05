@@ -16,3 +16,6 @@
     font-family: 'Orbitron', sans-serif;
     font-weight: lighter;
 }
+.input::placeholder {
+    color: rgb(255, 255, 255);
+  }
